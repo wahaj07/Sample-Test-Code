@@ -1,3 +1,4 @@
 # Sample-Test-Code
 
-Change being mafe
+Change being made
+Second change
